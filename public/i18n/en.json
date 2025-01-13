@@ -1,0 +1,67 @@
+{
+    "auth": {
+      "email": "Email",
+      "password": "Password",
+      "required": "This field is required",
+      "login": "Login"
+    },
+    "nav": {
+      "home": "Home",
+      "users": "Users",
+      "questions": "Questions",
+      "logout": "Logout",
+      "allQuestions": "All Questions",
+      "addQuestion": "Add Question"
+    },
+    "questions": {
+      "addQuestion": "Add Question",
+      "updateQuestion": "Update Question",
+      "Complete": "Complete",
+      "search": "Search",
+      "byUser": "By User",
+      "status": "Status",
+      "fromDate": "From Date",
+      "toDate": "To Date",
+      "image": "Image",
+      "title": "Title",
+      "username": "Username",
+      "deadline": "Deadline",
+      "update": "Update",
+      "delete": "Delete",
+      "addNewQuestion": "Add New Question",
+      "user": "User",
+      "admin": "Admin",
+      "mousa": "Mousa",
+      "selectImage": "Select Image",
+      "deadlineDate": "Deadline Date",
+      "description": "Description",
+      "create": "Create",
+      "discardChangesConfirmation": "Are You Sure That You Want To Discard Your Changes?",
+      "no": "No",
+      "yes": "Yes",
+      "deleteQuestionConfirmation": "Are you sure you want to delete this question?"
+    },
+  
+    "users": {
+      "search": "Search",
+      "titleSearch": "Title Search",
+      "no": "No.",
+      "name": "Name",
+      "email": "Email",
+      "questionsAssigned": "Questions Assigned",
+      "delete": "Delete",
+      "inActive": "In-Active",
+      "active": "Active",
+      "deleteUserConfirmation":"Are you sure you want to delete this user?"
+    }
+    ,
+  
+    "general": {
+      "loading": "Loading"
+    },
+  
+    "toaster": {},
+  
+    "buttons": {}
+  }
+  

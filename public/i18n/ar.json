@@ -1,0 +1,68 @@
+{
+    "auth": {
+      "email": "البريد الالكتروني",
+      "password": "كلمة المرور",
+      "required": "هذا الحقل مطلوب",
+      "login": "تسجيل الدخول"
+    },
+    "nav": {
+      "home": "الرئيسية",
+      "users": "المستخدمين",
+      "questions": "المهام",
+      "logout": "تسجيل الخروج",
+      "allQuestions": "كل المهام",
+      "addQuestion": "اضافة مهمة"
+    },
+    "questions": {
+      "addQuestion": "اضافة مهمة",
+      "updateQuestion": "تحديث المهمة",
+      "Complete": "مكتمل",
+      "search": "بحث",
+      "byUser": "بواسطة المستخدم",
+      "status": "الحالة",
+      "fromDate": "من تاريخ",
+      "toDate": "إلى تاريخ",
+      "image": "الصورة",
+      "title": "العنوان",
+      "username": "اسم المستخدم",
+      "deadline": "الموعد النهائي",
+      "update": "تحديث",
+      "delete": "حذف",
+      "addNewQuestion": "إضافة مهمة جديدة",
+      "user": "المستخدم",
+      "admin": "المسؤول",
+      "mousa": "موسى",
+      "selectImage": "اختر صورة",
+      "deadlineDate": "تاريخ الموعد النهائي",
+      "description": "الوصف",
+      "create": "إنشاء",
+      "close": "إغلاق",
+        "discardChangesConfirmation": "هل أنت متأكد أنك تريد تجاهل التغييرات؟",
+    "no": "لا",
+    "yes": "نعم",
+    "deleteQuestionConfirmation": "هل أنت متأكد أنك تريد حذف هذه المهمة؟"
+    },
+  
+    "users": {
+      "search": "بحث",
+      "titleSearch": "بحث عن عنوان",
+      "no": "رقم.",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "questionsAssigned": "المهام المسندة",
+      "delete": "حذف",
+      "inActive": "غير نشط",
+      "active": "نشط",
+      "deleteUserConfirmation":"هل انت متاكد من حذف هذا المستخدم؟"
+    }
+    ,
+  
+    "general": {
+      "loading": "Loading"
+    },
+  
+    "toaster": {},
+  
+    "buttons": {}
+  }
+  
