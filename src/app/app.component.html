@@ -1,14 +1,1 @@
-<h1 class="text-3xl font-bold text-blue-500">
-  Hello world!
-</h1>
-
-<mat-radio-group aria-label="Select an option">
-  <mat-radio-button value="1">{{"nav.home"|translate}}</mat-radio-button>
-  <mat-radio-button value="2">Option 2</mat-radio-button>
-</mat-radio-group>
-
-<button mat-button [matMenuTriggerFor]="menu">Menu</button>
-<mat-menu #menu="matMenu">
-  <button mat-menu-item>Item 1</button>
-  <button mat-menu-item>Item 2</button>
-</mat-menu>
+<router-outlet></router-outlet>

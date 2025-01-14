@@ -2,8 +2,10 @@
     "auth": {
       "email": "Email",
       "password": "Password",
+      "confirmPassword": "Confirm Password",
       "required": "This field is required",
-      "login": "Login"
+      "login": "Login",
+      "submit": "Submit"
     },
     "nav": {
       "home": "Home",
